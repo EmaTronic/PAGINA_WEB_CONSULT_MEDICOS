@@ -7,3 +7,6 @@ jecheverry@gmail.com paciente
 gnavarro@gmail.com paciente
 
 jperez@gmail.com secretaria
+
+
+Contraseña: 12345
