@@ -1,4 +1,5 @@
-Este trabajo fue una elaboración individual, del año 2023, basado en plantillas de BOOTSTRAP, modificadas según la necesidad de lo solicitado, 
+Esta página web, fue una elaboración individual realiza por mí, del año 2023, basado en plantillas de BOOTSTRAP, 
+modificadas según la necesidad de lo solicitado, 
 para una asignatura de Lenguaje de programación de la Tecnicatura Superior en Desarrollo de Software, del ISSD. 
 Utilicé los siguientes lenguajes: HTML, CSS, JS Y BOOTSTRAP 5.1. + MYSQL para BD.
 Por si desean probar el código, los usuario cargados en el script 'desempegno_2' son 
